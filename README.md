@@ -1,3 +1,3 @@
 # demp-repo
 
-edit some things for demos
+edit some things for demoss
